@@ -1,4 +1,5 @@
 {
+  "name": "okta-bug-fix",
   "private": true,
   "devDependencies": {
     "babel-eslint": "^10.0.3",
