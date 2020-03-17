@@ -1,6 +1,4 @@
 {
-  "name": "okta-bug-fix",
-  "version": "0.0.2",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "dotenv": "^8.1.0",
